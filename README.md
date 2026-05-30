@@ -1,6 +1,6 @@
 # Tutorial Uji Hipotesis – Uji Z Satu Populasi (Ragam Diketahui)
 
-Repositori ini berisi dokumentasi tutorial Uji Hipotesis untuk mata kuliah Probabilitas dan Statistika.
+Repositori ini berisi dokumentasi dan link video tutorial Uji Hipotesis dari mata kuliah Probabilitas dan Statistika.
 
 ## Topik
 Uji Hipotesis Bagi Rata-Rata Satu Populasi - Ragam Populasi Diketahui (Uji Z)
